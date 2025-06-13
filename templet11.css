@@ -1,0 +1,54 @@
+.class1{
+    text-align: center;
+    display: flex;
+    padding-top: 100px ;
+}
+.class2{
+    text-align: center;
+    display: flex;
+}
+.child1{
+    margin: 20px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+.child2{
+    margin: 20px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+.maincontainer{
+    padding-left:  12%;
+    padding-right: 30%;
+    /* margin-right: 20%; */
+}
+img{
+    height: 450px;
+    width: 270px;
+}
+.boy{
+    height: 500px;
+    width: 600px;
+}
+.class3{
+    display: flex;
+    
+    
+}
+.workshop,.gondol{
+    height: 50px;
+   width: 50px;
+}
+.box1{
+    
+    width: 390px;
+    height: 100px;
+    padding: 10px;
+    margin: 20px;
+}
+span{
+    background-color: darkgrey;
+    color: white;
+    padding: 2px;
+
+}
